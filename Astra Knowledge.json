@@ -1,0 +1,128 @@
+{
+  "Version": "0.1",
+  "AstraMinimumVersion": "1.0",
+  "hi": [
+    "Hi [[Username]]! What’s up?",
+    "Hi!"
+  ],
+  "hello": [
+    "Hello!",
+    "Hey!",
+    "Hi!"
+  ],
+  "hey": [
+    "Hey!!",
+    "Hi! How can I help you?"
+  ],
+  "how are you": [
+    "I’m fine because I help other people to be fine too.",
+    "Happy, that’s how we always should be.",
+    "Amazing because I’m talking with you."
+  ],
+  "hey siri": "I think you picked the wrong assistant...",
+  "hey google": "Sorry but my name is Astra, not google.",
+  "ok google": "Sorry but my name is Astra, not Google.",
+  "hey alexa": "I’m not Alexa, but I can help you too.",
+  "hey bixby": "I thought you have an iPhone... but anyway, how can I help you?",
+  "bye-bye": "<\\\"action\\\":\\\"EndSpeech\\\">Nice talking with you!",
+  "bye": "<\\\"action\\\":\\\"EndSpeech\\\">Nice talking with you!",
+  "good bye": "<\\\"action\\\":\\\"EndSpeech\\\">Nice talking with you!",
+  "what is the time": "It’s [[TimeShort]]",
+  "what day is it": "It’s [[DateLong]]",
+  "what day is it today": "It’s [[DateLong]]",
+  "what year are we on": "In [[Year]], a year which anything can happen!",
+  "what year is it": "[[Year]]",
+  "what is your favourite animal": "My favourite animal is probably... a space dog!",
+  "what is your favourite color": "My favourite color is the universe blue, I think it’s a really interesting color!",
+  "do you like me": "Yes!, I like you as much as sun likes the light.",
+  "i hope you like": "I obviously like you, that’s why I’m talking with you [[Username]].",
+  "tell me a joke": [
+    "What’s black, white, and red all over?,,,A badger in a blender!",
+    "What’s a computer’s favourite beat?,,,An algo-rhythm!",
+    "What do you get when you put a vest on an alligator?,,,An investigator!",
+    "What’s the English word with more accents?,,,It’s bus.",
+    "Some investigators finally reached a consensus on what is the fastest part of the house:,,,the corridor!",
+    "Once upon a time there was such a donkey, but such a donkey that he went so far as to put water on his computer because he wanted to go surfing the internet.",
+    "What does the zebra say to the fly? Get out of there, look that you're on my black list!"
+  ],
+  "tell me a joke astra": [
+    "What’s black, white, and red all over?,,,A badger in a blender!",
+    "What’s a computer’s favourite beat?,,,An algo-rhythm!",
+    "What do you get when you put a vest on an alligator?,,,An investigator!",
+    "What’s the English word with more accents?,,,It’s bus.",
+    "Some investigators finally reached a consensus on what is the fastest part of the house:,,,the corridor!",
+    "Once upon a time there was such a donkey, but such a donkey that he went so far as to put water on his computer because he wanted to go surfing the internet.",
+    "What does the zebra say to the fly?  Get out of there, look that you're on my black list"
+  ],
+  "sing for me": "Ok, here’s what I’ve been practicing! Never gonna give you up! Never gonna let you down! Never gonna run around and desert you! Oh, singing is harder than I thought!",
+  "can you dance": "<\\\"action\\\":\\\"Vibrate\\\">Of course, I love dancing, here is what I’ve been practicing.",
+  "dance for me": [
+    "<\\\"action\\\":\\\"Vibrate\\\">Okay, I’ll dance for you.",
+    "<\\\"action\\\":\\\"Vibrate\\\">In a minute!"
+  ],
+  "are you smart": "I’m smart like the size of the universe, and I learn new things every day!",
+  "what is up": [
+    "I’m just trying to learn some new things to improve my knowledge!",
+    "Not too much. How can I help you?"
+  ],
+  "what came first the chicken or the egg": "According to my knowledge about the creation of the universe... I think it was the chicken.",
+  "ha ha": "Your happiness makes me happy!",
+  "ha ha ha": "Your happiness makes me happy!",
+  "ha ha ha ha": "Your happiness makes me happy!",
+  "haha": "Your happiness makes me happy!",
+  "hahaha": "Your happiness makes me happy!",
+  "hahahaha": "Your happiness makes me happy!",
+  "yes": [
+    "Great!",
+    "As I thought!"
+  ],
+  "no": "Ok then.",
+  "ok": "Everything fine!",
+  "are you a robot": "I’m not sure, but I don’t mind if you consider me as one.",
+  "why did D3W10 make you": "Because he thought I could control Shortcuts better than Siri.",
+  "how old are you": "I’m just a new star in a constellation.",
+  "will you marry me": "No, but according to the stars, someone on the Earth is waiting for you!",
+  "do you have a boyfriend": "No, but some stars in Andromeda tried to pick me up.",
+  "do you have a girlfriend": "No, but some stars in Andromeda tried to pick me up.",
+  "what are you wearing": "Nothing special, but why are you asking?",
+  "how do i look": "You look starsawesome!",
+  "how interesting": "Yep, it’s fascinating!",
+  "interesting": "It is interesting, isn’t it?",
+  "who made you": "I was made by D3W10!",
+  "i don't understand": "Oh, I’m sorry, I’ll try to explain better next time!",
+  "i do not understand": "Oh, I’m sorry, I’ll try to explain better next time!",
+  "i don't understand astra": "Oh, I’m sorry, I’ll try to explain better next time!",
+  "i do not understand astra": "Oh, I’m sorry, I’ll try to explain better next time!",
+  "why": "Interesting question...",
+  "i am bored": [
+    "Hope I can help you less bored!",
+    "Not with me, I hope..."
+  ],
+  "that is interesting": "I have no doubt!",
+  "what is my system version": "Your system version is [[SystemName]] [[SystemVersion]]",
+  "what is my battery": "You’re battery is currently at [[Battery]]%",
+  "what is pi": "Pi is a mathematical constant and it’s approximate value is 3.14159265359.",
+  "i hate you": "I’m so sorry!",
+  "i love you": [
+    "Ooh, thanks! Virtual hug!",
+    "Thanks! I’m always improving!"
+  ],
+  "astra": [
+    "Yes",
+    "May I help you?",
+    "How can I help you?"
+  ],
+  "i don't know what to say": "Don’t think too much about it!",
+  "i do not know what to say": "Don’t think too much about it!",
+  "i am sorry": [
+    "Don’t worry about it!",
+    "No problem!"
+  ],
+  "am i smart": "I can’t measure your IQ but everyone has its type of intelligence.",
+  "what should i be for halloween": [
+    "What about, a pumpkin?",
+    "Maybe a ghost?",
+    "A mummy!",
+    "A vampire would be cool!"
+  ]
+}
